@@ -18,13 +18,14 @@ body {
 header {
     background: rgba(229, 84, 115, 0.10);
     display: flex;
+    gap: 500px;
 
 
 }
 
 .banner {
 
-    margin: 200px 150px;
+    margin: 200px 300px;
     text-align: justify;
 }
 
@@ -131,3 +132,22 @@ h1 {
 .support1{
     padding: 100px 50px;
 }
+
+/* sign section */
+
+.sign{
+    width: 100uv;
+    height: 620px;
+    display: flex;
+    margin: 50px 0px;
+    padding: 10px 660px;
+    border-radius: 8px;
+    background-color:#E554730D ;
+    gap: 150px;
+}
+
+.sign-title{
+    font-weight: 400;
+    padding-top: 150px;
+}
+   
