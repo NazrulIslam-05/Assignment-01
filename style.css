@@ -52,7 +52,7 @@ h1 {
 .feature-container {
     text-align: center;
     width: 1920px;
-    height: 4867px;
+    height: 1120px;
 
 }
 .feature-title{
@@ -121,4 +121,13 @@ h1 {
 .support-container{
     width: 1440px;
     height: 320px;
+    border-radius: 8px;
+    background:#2727270D;
+    display: flex;
+    justify-content:space-around;
+    margin-left: 580px;
+
+}
+.support1{
+    padding: 100px 50px;
 }
