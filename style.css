@@ -1,6 +1,7 @@
 /* header section */
 body {
-    width: 100%
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .btn-primary {
@@ -150,4 +151,33 @@ h1 {
     font-weight: 400;
     padding-top: 150px;
 }
+
+/* instagram section */
+
+.instagram{
+    width: 1440px;
+    margin: 50px auto;
+    padding: 30px auto;
+    
+
+}
+
+.instagram-title{
+    width: 520px;
+    text-align: center;
+    justify-content:space-around;
+    padding-left: 400px;
    
+
+}
+   
+.instagram-images{
+    margin: o auto;
+    width: 340px;
+    height: 400px;
+    display: flex;
+    gap: 40px;
+   
+
+    
+}
