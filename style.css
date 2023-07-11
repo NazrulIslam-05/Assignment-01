@@ -25,6 +25,42 @@ header {
     justify-content: space-between;
 
 
+} 
+
+.nav{
+    
+    margin: 20px auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 30px;   
+    padding-right: 30px;
+    font-size: 50px;
+}
+.nav-title{
+    display: flex;
+}
+
+.nav-login{
+    display: flex;
+}
+ ul{   
+    list-style-type: none;
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav ul li {
+    
+    
+}
+
+.nav  li a{
+        text-decoration: none;
+        padding-right: 85px;
+        justify-content: space-around;
 }
 
 .banner {
@@ -238,4 +274,14 @@ main{
     text-align: center;
     background-color: black;
     color: #ffffff;
+}
+
+/* form */
+
+.sign-form{
+    background-color: rgb(136, 158, 158);
+    margin-left: 540px;
+    width: 50%;
+    height: 590px;
+    justify-content: center;
 }
