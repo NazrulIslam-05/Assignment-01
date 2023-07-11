@@ -166,7 +166,8 @@ h1 {
     width: 520px;
     text-align: center;
     justify-content:space-around;
-    padding-left: 400px;
+    padding-left: 360px;
+    padding-top: 25px;
    
 
 }
@@ -176,8 +177,25 @@ h1 {
     width: 340px;
     height: 400px;
     display: flex;
-    gap: 40px;
+    gap: 20px;
    
 
+    
+}
+
+/* subscribe section */
+.subscribe{
+    background-image: url("./img/Rectangle 9.png");
+    width: 1440px;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.subscribe-email{
+  padding-left: 450px;
+}
+.subscribe-email {
+    width: 700px;
+    height: 60px;
     
 }
